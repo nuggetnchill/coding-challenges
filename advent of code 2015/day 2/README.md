@@ -11,3 +11,7 @@ For example:
 All numbers in the elves' list are in feet.
 
 How many total square feet of wrapping paper should they order?
+
+Comment:
+    I was able to dip my toe further into iterating through arrays and functions for array such as .map() and .reduce()
+    also learned something about geometry and wrapping present :D
