@@ -47,7 +47,7 @@ function question2() {
             const max =  Math.max(length, width,height) *  2 ;
             
             return total 
-                    + ( length + length + width + width + height + height - Math.max(length, width,height) - Math.max(length, width,height)  )
+                    + ( length + length + width + width + height + height - max  )
                     + ( length * width * height ) 
               
         },0);
