@@ -1,5 +1,7 @@
 ## Advent of Code 2015
 
+![image](https://tonnygaric.com/media/pages/blog/first-time-participating-in-advent-of-code/2028434015-1552215026/first-time-participating-in-advent-of-code.png)
+
 Solutions for Advent of Code which are written with NodeJS.
 
 ### About
